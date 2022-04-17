@@ -1,0 +1,37 @@
+.btn-block{
+    width: 200px;
+}
+
+.form{
+    width: 400px;
+}
+
+
+.date-input{
+    width: 400px;
+}
+
+
+.lead{
+    font-weight: 500;
+}
+
+
+.bolder{
+    font-weight: 700;
+    font-size: 24px;
+}
+
+
+.add-item{
+    background-color: white;
+    box-shadow: 4px 4px 10px #b4b4b4;
+    margin-right: 20px;
+}
+
+.item-analysis{
+    background-color: white;
+    box-shadow: 4px 4px 10px #b4b4b4;
+    margin-left: 20px;
+}
+
